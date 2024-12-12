@@ -1,4 +1,8 @@
 target/
+.gauge/
+gauge_bin/
+logs/
+reports/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/

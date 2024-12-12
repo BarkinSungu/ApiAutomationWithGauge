@@ -1,0 +1,4 @@
+{
+  "language": "java",
+  "plugins": ["java", "html-report", "screenshot"]
+}
